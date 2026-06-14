@@ -1,0 +1,5 @@
+.env
+td_cache.json
+shared_risk_state.json
+__pycache__/
+*.pyc
